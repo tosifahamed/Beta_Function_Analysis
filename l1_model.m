@@ -1,3 +1,4 @@
+%Code for the model C. elegans L1 larva. Dorsal motor neurons have an excitatory drive to the dorsal muscles and an inhibitory drive to the ventral muscles. Ventral muscles recirve an additional extraynaptic input from the excitatory interneurons.
 function l1_model_fig_8()
     %wild type model
     ein_link = 1;
